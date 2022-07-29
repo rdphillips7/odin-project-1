@@ -161,7 +161,7 @@ li a {
   .information .items .itext {
     justify-content: center;
     font-size: var(--sec-text-font-size);
-    font-color: var(--sec-text-font-color);
+    color: var(--info-header-font-color);
   }
 
   .information .items .img {
